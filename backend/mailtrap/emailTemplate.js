@@ -24,7 +24,7 @@ export const VERIFICATION_EMAIL_TEMPLATE = `
   height: 92vh; 
   width: 100%; /* Full width of the screen */
   /* background: rgba(0, 0, 0, 0.3); Semi-transparent black background */
-  background: rgba(220, 38, 38, 0.3); /* Semi-transparent red background */  backdrop-filter: blur(10px); /* Small blur */
+  background: rgba(220, 38, 38, 0.3); /* Semi-transparent red background */  backdrop-filter: blur(30px); /* Small blur */
   border-radius: 20px; /* Remove rounded corners */
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 2px 4px rgba(0, 0, 0, 0.06); /* Shadow effect */
   overflow: hidden; /* Ensures hidden overflow */
@@ -81,7 +81,7 @@ export const PASSWORD_RESET_SUCCESS_TEMPLATE = `
   height: 92vh; 
   width: 100%; /* Full width of the screen */
   /* background: rgba(0, 0, 0, 0.3); Semi-transparent black background */
-  background: rgba(220, 38, 38, 0.3); /* Semi-transparent red background */  backdrop-filter: blur(10px); /* Small blur */
+  background: rgba(220, 38, 38, 0.3); /* Semi-transparent red background */  backdrop-filter: blur(30px); /* Small blur */
   border-radius: 20px; /* Remove rounded corners */
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 2px 4px rgba(0, 0, 0, 0.06); /* Shadow effect */
   overflow: hidden; /* Ensures hidden overflow */
@@ -154,7 +154,7 @@ export const PASSWORD_RESET_REQUEST_TEMPLATE = `
   height: 92vh; 
   width: 100%; /* Full width of the screen */
   /* background: rgba(0, 0, 0, 0.3); Semi-transparent black background */
-  background: rgba(220, 38, 38, 0.3); /* Semi-transparent red background */  backdrop-filter: blur(10px); /* Small blur */
+  background: rgba(220, 38, 38, 0.3); /* Semi-transparent red background */  backdrop-filter: blur(30px); /* Small blur */
   border-radius: 20px; /* Remove rounded corners */
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 2px 4px rgba(0, 0, 0, 0.06); /* Shadow effect */
   overflow: hidden; /* Ensures hidden overflow */
